@@ -140,7 +140,7 @@ hex_counts = orders.hex_id.value_counts().cumsum()
 * Only a **small number of hexes** contain 80% of orders → demand is geographically concentrated.
 * These hot zones also show the **highest fail counts**, meaning operational improvements should focus there.
 
-![Example Folium Map](images/failed_orders_hexmap.png)
+![Example Folium Map](map.png)
 
 ---
 
